@@ -1,3 +1,14 @@
+This project demonstrates:
+- **Computer Vision:** Object detection, tracking, pose estimation
+- **Machine Learning:** YOLOv8, rule-based classification, motion detection
+- **Data Engineering:** Structured JSON/CSV output, analytics pipeline
+- **Software Engineering:** Modular code, clean architecture, documentation
+- **Problem-Solving:** Handling real-world challenges (ball detection on blue court, player ID stability)
+
+**Results:** 152 shots detected, 4 players tracked, 70% ball accuracy on 5.4-min video
+
+**Tech Stack:** Python, OpenCV, PyTorch, Ultralytics, Pandas, Matplotlib
+
 # padel-game-analytics
 ## Approach & Methodology
 
