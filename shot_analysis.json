@@ -1,0 +1,83 @@
+[
+  {
+    "frame": 270,
+    "timestamp": 10.8,
+    "player_id": 0,
+    "shot_type": "serve",
+    "ball_x": 395.5,
+    "ball_y": 187.5,
+    "confidence": 0.76
+  },
+  {
+    "frame": 286,
+    "timestamp": 11.44,
+    "player_id": 0,
+    "shot_type": "volley",
+    "ball_x": 435.5,
+    "ball_y": 646.5,
+    "confidence": 0.677
+  },
+  {
+    "frame": 301,
+    "timestamp": 12.04,
+    "player_id": 0,
+    "shot_type": "forehand",
+    "ball_x": 442.5,
+    "ball_y": 611.5,
+    "confidence": 0.818
+  },
+  {
+    "frame": 316,
+    "timestamp": 12.64,
+    "player_id": 3,
+    "shot_type": "forehand",
+    "ball_x": 966.0,
+    "ball_y": 243.0,
+    "confidence": 0.642
+  },
+  {
+    "frame": 347,
+    "timestamp": 13.88,
+    "player_id": 0,
+    "shot_type": "forehand",
+    "ball_x": 644.0,
+    "ball_y": 518.5,
+    "confidence": 0.749
+  },
+  {
+    "frame": 368,
+    "timestamp": 14.72,
+    "player_id": 0,
+    "shot_type": "forehand",
+    "ball_x": null,
+    "ball_y": null,
+    "confidence": 0.811
+  },
+  {
+    "frame": 458,
+    "timestamp": 18.32,
+    "player_id": 3,
+    "shot_type": "volley",
+    "ball_x": 239.5,
+    "ball_y": 189.5,
+    "confidence": 0.266
+  },
+  {
+    "frame": 473,
+    "timestamp": 18.92,
+    "player_id": 3,
+    "shot_type": "volley",
+    "ball_x": null,
+    "ball_y": null,
+    "confidence": 0.411
+  },
+  {
+    "frame": 489,
+    "timestamp": 19.56,
+    "player_id": 1,
+    "shot_type": "volley",
+    "ball_x": 895.8,
+    "ball_y": 472.5,
+    "confidence": 0.45
+  }
+]
