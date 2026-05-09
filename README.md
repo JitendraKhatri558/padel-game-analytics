@@ -6,7 +6,7 @@ This project demonstrates:
 - **Problem-Solving:** Handling real-world challenges (ball detection on blue court, player ID stability)
 
 **Results:** 152 shots detected, 4 players tracked, 70% ball accuracy on 5.4-min video
-
+**Demo video:** https://drive.google.com/drive/u/1/folders/1Nnk6OKAiVMbFzti3viRxrU2rlw_x9Nb4
 **Tech Stack:** Python, OpenCV, PyTorch, Ultralytics, Pandas, Matplotlib
 
 # padel-game-analytics
